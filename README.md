@@ -7,7 +7,7 @@
 5. Explore complex number node ideas
 6. Look into using a deeper net to do face recognition problems
  
-# Outline
+# Outline:
 
 This project is based on ideas discussed at [Make Your Own Neural Net Blog](http://makeyourownneuralnetwork.blogspot.co.uk)
 
